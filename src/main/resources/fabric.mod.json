@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "heighthaltingheels",
+  "version": "${version}",
+  "name": "Heighthaltingheels",
+  "description": "",
+  "authors": [
+    "Aikoyori"
+  ],
+  "contact": {
+    "website": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
+    "repo": "https://github.com/Aikoyori/HeightHaltingHeelsFabric"
+  },
+  "license": "MIT",
+  "icon": "assets/heighthaltingheels/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "xyz.aikoyori.heighthaltingheels.client.HeighthaltingheelsClient"
+    ],
+    "main": [
+      "xyz.aikoyori.heighthaltingheels.Heighthaltingheels"
+    ]
+  },
+  "mixins": [
+    "heighthaltingheels.mixins.json"
+  ],
+  "depends": {
+    "fabric": "*",
+    "minecraft": "1.19.2"
+  }
+}

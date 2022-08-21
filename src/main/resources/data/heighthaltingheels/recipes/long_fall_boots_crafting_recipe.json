@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X X",
+    "X X",
+    "D D"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:iron_ingot"
+    },
+    "D": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "heighthaltingheels:long_fall_boots",
+    "count": 1
+  }
+}
