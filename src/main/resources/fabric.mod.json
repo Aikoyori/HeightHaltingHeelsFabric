@@ -8,8 +8,8 @@
     "Aikoyori"
   ],
   "contact": {
-    "website": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
-    "repo": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
+    "homepage": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
+    "sources": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
     "issues": "https://github.com/Aikoyori/HeightHaltingHeelsFabric/issues"
   },
   "license": "MIT",
