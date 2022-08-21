@@ -3,16 +3,17 @@
   "id": "heighthaltingheels",
   "version": "${version}",
   "name": "Heighthaltingheels",
-  "description": "",
+  "description": "Height Halting Heels from your favourite game series, Wormholes!",
   "authors": [
     "Aikoyori"
   ],
   "contact": {
     "website": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
-    "repo": "https://github.com/Aikoyori/HeightHaltingHeelsFabric"
+    "repo": "https://github.com/Aikoyori/HeightHaltingHeelsFabric",
+    "issues": "https://github.com/Aikoyori/HeightHaltingHeelsFabric/issues"
   },
   "license": "MIT",
-  "icon": "assets/heighthaltingheels/icon.png",
+  "icon": "assets/heighthaltingheels/lfblogo.png",
   "environment": "*",
   "entrypoints": {
     "client": [
